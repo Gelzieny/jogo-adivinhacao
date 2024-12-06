@@ -1,7 +1,8 @@
 <strong><h1 align="center">Projeto - Jogo Adivinhação</h1></strong>
 
 ## 💻 Projeto
-Esse projeto foi desenvolvido durante as aulas do Stage 05 no Explorer.
+O jogo de advinhação é um jogo que você seleciona números de 0 a 10 até acertar o número.
+Aprendi a manipular a DOM com esse projeto, a parte mais desafiadora foi fazer as animações que não foram pedidas meu eu acrescentei por conta própria.
 
 <p align="center">
   <img alt="" src=".github/preview.gif" width="100%">
@@ -19,6 +20,16 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - HTML
 - CSS
 - JavaScript
+- Git e Github
+- Figma
+
+## ⚙️ Conceitos aplicados
+
+- HTML Semântico
+- Responsividade
+- Callback Function
+- Condicionais
+- Eventos
 
 ## 🚀 Pré-requisitos
 
