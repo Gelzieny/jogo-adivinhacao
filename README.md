@@ -5,7 +5,7 @@ O jogo de advinhação é um jogo que você seleciona números de 0 a 10 até ac
 Aprendi a manipular a DOM com esse projeto, a parte mais desafiadora foi fazer as animações que não foram pedidas meu eu acrescentei por conta própria.
 
 <p align="center">
-  <img alt="" src=".github/preview.gif" width="100%">
+  <img alt="" src=".github/image.png" width="100%">
 </p>
 
 ## 🎨 Layout
